@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_600">#757575</color>
+    <color name="play_green">#01875F</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">B3-Android</string>
+    <string name="bottom_apps">Apps</string>
+    <string name="bottom_books">Books</string>
+    <string name="bottom_games">Games</string>
+    <string name="bottom_search">Search</string>
+    <string name="tab_for_you">For you</string>
+    <string name="tab_kids">Kids</string>
+    <string name="tab_other_devices">Other devices</string>
+    <string name="tab_top_charts">Top charts</string>
+    <style name="Theme.B3Android" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/play_green</item>
+        <item name="colorPrimaryVariant">@color/play_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/play_green</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+</resources>

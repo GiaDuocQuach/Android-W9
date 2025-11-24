@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.b2_android.app-debug-32:/drawable_bg_avatar.xml.flat",
+        "source": "com.example.b2_android.app-main-34:/drawable/bg_avatar.xml"
+    },
+    {
+        "merged": "com.example.b2_android.app-debug-32:/menu_main_menu.xml.flat",
+        "source": "com.example.b2_android.app-main-34:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.b2_android.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.b2_android.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.b2_android.app-debug-32:/layout_item_email.xml.flat",
+        "source": "com.example.b2_android.app-main-34:/layout/item_email.xml"
+    }
+]

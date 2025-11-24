@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color avatar_blue
+color avatar_green
+color avatar_grey
+color avatar_light_green
+color avatar_orange
+color gmail_background
+color gmail_hint_background
+color gmail_red
+color gmail_yellow
+color text_primary
+color text_secondary
+drawable bg_avatar
+id action_search
+id contentLayout
+id fabCompose
+id imageStar
+id layoutText
+id recyclerViewEmails
+id textAvatar
+id textInstruction
+id textSender
+id textSnippet
+id textSubject
+id textTime
+id toolbar
+id viewLabel
+layout activity_main
+layout item_email
+menu main_menu
+string action_search
+string app_name
+string instruction
+style Theme.B2Android

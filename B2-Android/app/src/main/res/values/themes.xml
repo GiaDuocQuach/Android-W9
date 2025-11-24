@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.B2Android" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gmail_red</item>
+        <item name="colorPrimaryVariant">@color/gmail_red</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/gmail_red</item>
+        <item name="android:statusBarColor">@color/gmail_red</item>
+        <item name="android:windowBackground">@color/gmail_background</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>

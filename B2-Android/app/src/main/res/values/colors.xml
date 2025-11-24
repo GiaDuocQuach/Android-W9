@@ -1,0 +1,15 @@
+<resources>
+    <color name="gmail_red">#D32F2F</color>
+    <color name="gmail_background">#FFFFFF</color>
+    <color name="gmail_hint_background">#EEEEEE</color>
+    <color name="gmail_yellow">#FFEB3B</color>
+
+    <color name="avatar_blue">#2196F3</color>
+    <color name="avatar_orange">#FF9800</color>
+    <color name="avatar_green">#8BC34A</color>
+    <color name="avatar_grey">#9E9E9E</color>
+    <color name="avatar_light_green">#AED581</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>

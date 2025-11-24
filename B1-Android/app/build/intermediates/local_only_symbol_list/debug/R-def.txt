@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color teal_200
+color white
+id btnAdd
+id btnDelete
+id btnUpdate
+id edtStudentId
+id edtStudentName
+id lvStudents
+id tvName
+id tvStudentId
+layout activity_main
+layout item_student
+string app_name
+style Theme.B1Android

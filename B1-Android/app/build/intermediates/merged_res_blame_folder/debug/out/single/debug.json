@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.b1_android.app-merged_res-31:/layout_item_student.xml.flat",
+        "source": "com.example.b1_android.app-main-33:/layout/item_student.xml"
+    },
+    {
+        "merged": "com.example.b1_android.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.b1_android.app-main-33:/layout/activity_main.xml"
+    }
+]

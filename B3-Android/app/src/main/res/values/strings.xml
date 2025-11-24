@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">B3-Android</string>
+    <string name="tab_for_you">For you</string>
+    <string name="tab_top_charts">Top charts</string>
+    <string name="tab_other_devices">Other devices</string>
+    <string name="tab_kids">Kids</string>
+    <string name="bottom_games">Games</string>
+    <string name="bottom_apps">Apps</string>
+    <string name="bottom_search">Search</string>
+    <string name="bottom_books">Books</string>
+</resources>
